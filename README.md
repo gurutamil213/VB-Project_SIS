@@ -368,4 +368,4 @@ If you are publishing this repository on GitHub, you can replace this section wi
 4. Go to Open Project 
 5. Open -> "D:\VB-Project_SIS\SIS\SIS.vbproj"
 6. And just run it.
-7. If there any issue contact me :)
+7. If there any issue contact me by mbgurutamil213@gmail.com :)
